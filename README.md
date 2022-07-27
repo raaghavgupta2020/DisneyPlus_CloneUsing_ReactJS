@@ -1,3 +1,8 @@
+This project has been deployed using firebase , URL is provided below
+https://disneyplus-clone-424ca.web.app/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
